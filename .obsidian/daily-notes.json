@@ -1,0 +1,6 @@
+{
+  "format": "DD-MM-YYYY",
+  "folder": "Daily Log",
+  "template": "Daily Log/000/🗓 Daily Note",
+  "autorun": false
+}

@@ -1,0 +1,31 @@
+{
+  "callouts": {
+    "custom": [
+      "testcallout",
+      "image"
+    ],
+    "settings": {
+      "testcallout": [
+        {
+          "changes": {
+            "color": "217, 161, 221"
+          }
+        }
+      ],
+      "image": [
+        {
+          "changes": {
+            "icon": "lucide-image",
+            "color": "232, 232, 232"
+          }
+        }
+      ]
+    }
+  },
+  "calloutDetection": {
+    "obsidianFallbackForced": false,
+    "obsidian": true,
+    "theme": true,
+    "snippet": true
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "accentColor": "#a4f0a3",
+  "cssTheme": "AnuPpuccin",
+  "nativeMenus": false,
+  "translucency": false,
+  "interfaceFontFamily": "Aldo",
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "column",
+    "gallery"
+  ]
+}

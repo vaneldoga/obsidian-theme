@@ -1,0 +1,4 @@
+
+# 🗓 Daily Note
+---
+template

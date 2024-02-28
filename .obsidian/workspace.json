@@ -1,0 +1,242 @@
+{
+  "main": {
+    "id": "15020826410fdb5d",
+    "type": "split",
+    "children": [
+      {
+        "id": "44b0b455c3f1ae71",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6499c21fc8f5baa0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Markdown.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8a73645638698c01",
+    "type": "split",
+    "children": [
+      {
+        "id": "33c2f2b87fb6f39d",
+        "type": "tabs",
+        "dimension": 48.272458045409664,
+        "children": [
+          {
+            "id": "4b0d09fed335c0ac",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8058b83f415a53c8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "3b61b26f9f971716",
+        "type": "tabs",
+        "dimension": 22.50740375123396,
+        "children": [
+          {
+            "id": "142fcbd28b32ec1f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "864f0779709110b5",
+        "type": "tabs",
+        "dimension": 29.220138203356377,
+        "children": [
+          {
+            "id": "f39675b606b7fcef",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4eb9609fc85340f7",
+    "type": "split",
+    "children": [
+      {
+        "id": "40f797088ce7d56f",
+        "type": "tabs",
+        "dimension": 34.418145956607496,
+        "children": [
+          {
+            "id": "3b1564e1be8c9683",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Markdown.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "621bbd86d7ff1876",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Markdown.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f7a4b5bb53034f22",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e29d12f8e9229dde",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Markdown.md"
+              }
+            }
+          },
+          {
+            "id": "a1b5be3d3967cede",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "a830f916205f7335",
+        "type": "tabs",
+        "dimension": 65.58185404339251,
+        "children": [
+          {
+            "id": "62fd9a232f573558",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 329
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "graph:Open graph view": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "digitalgarden:Digital Garden Publication Center": false
+    }
+  },
+  "active": "6499c21fc8f5baa0",
+  "lastOpenFiles": [
+    "Daily Log/000/🗓 Daily Note.md",
+    "Daily Log/28-02-2024.md",
+    "Markdown.md",
+    "Computação/Plataformas de Estudo.md",
+    "Computação/8 Reporting.md",
+    "Objetivos.md",
+    "Computação/Git/2 Git - Comandos.md",
+    "Computação/Git/3  GitHub.md",
+    "Computação/Git/1 Git.md",
+    "Computação/Git/comandos.md",
+    "Computação/Git/Branch.canvas",
+    "Organização/Estudar.md",
+    "README.md",
+    "Organização/Aniversários.md",
+    "Organização/Objetivos.md",
+    "Vanel/Livro/Ideias iniciais.md",
+    "Vanel/Início.md",
+    "Daily Log/23-02-2024.md",
+    "Computação/Algoritmos/1 - Introdução.md",
+    "Daily Log/22-02-2024.md",
+    "000 ⏰ Tasks.md",
+    "001 💭 Tarefas.md",
+    "Homepage.md",
+    "Computação/Plataformas de Estudo/Coursera/Suporte - Google/Curso 1 - Fundamentos do suporte técnico/1 - Do ábaco à máquina analítica.md",
+    "Computação/Plataformas de Estudo/Curso Em Vídeo/Python/Mundo 1/Comandos básicos.md",
+    "Computação/Plataformas de Estudo/Alura/Linux/Linux II.md",
+    "Computação/Plataformas de Estudo/Alura/Linux/Linux I.md",
+    "Computação/Plataformas de Estudo/Curso Em Vídeo/Python/Mundo 1",
+    "Computação/Plataformas de Estudo/Coursera/Suporte - Google/Curso 1 - Fundamentos do suporte técnico",
+    "Computação/Plataformas de Estudo/Ada/Git e Versionamento/Branch.canvas",
+    "Computação/Plataformas de Estudo/CyberSec Pandora/OSINT",
+    "Computação/Plataformas de Estudo/Alura/Web",
+    "Computação/Plataformas de Estudo/Alura/Linux",
+    "Computação/Plataformas de Estudo/Curso Em Vídeo/Python",
+    "Computação/Plataformas de Estudo/Coursera/Suporte - Google",
+    "Computação/Plataformas de Estudo/Ada/Redes e Sistemas",
+    "Computação/Plataformas de Estudo/Ada/Git e Versionamento",
+    "Computação/Plataformas de Estudo/Ada/Algoritmos",
+    "Computação/Git e Versionamento/Branch.canvas",
+    "Folder 1/Subfolder 1/Image.png"
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "githubRepo": "",
+  "githubToken": "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",
+  "githubUserName": "vaneldoga",
+  "gardenBaseUrl": "",
+  "prHistory": [],
+  "baseTheme": "dark",
+  "theme": "{\"name\":\"80s Neon\",\"author\":\"deathau\",\"repo\":\"deathau/80s-Neon-for-Obsidian.md\",\"screenshot\":\"screenshot.jpg\",\"modes\":[\"dark\",\"light\"],\"cssUrl\":\"https://raw.githubusercontent.com/deathau/80s-Neon-for-Obsidian.md/HEAD/theme.css\"}",
+  "faviconPath": "",
+  "useFullResolutionImages": false,
+  "noteSettingsIsInitialized": true,
+  "siteName": "Vanel",
+  "mainLanguage": "en",
+  "slugifyEnabled": true,
+  "noteIconKey": "dg-note-icon",
+  "defaultNoteIcon": "",
+  "showNoteIconOnTitle": true,
+  "showNoteIconInFileTree": true,
+  "showNoteIconOnInternalLink": true,
+  "showNoteIconOnBackLink": true,
+  "showCreatedTimestamp": true,
+  "createdTimestampKey": "",
+  "showUpdatedTimestamp": true,
+  "updatedTimestampKey": "",
+  "timestampFormat": "dd MMM, yyyy h:mm a",
+  "styleSettingsCss": "body.css-settings-manager { --anp-custom-bg-blur-dark: 0px; --anp-custom-bg-card-fg-opacity-dark: 0.45; --anp-file-label-align: 0; --anp-custom-bg-brightness-dark: 0.4; --anp-callout-fold-position: 1; --list-indent: 1em; --anp-table-thickness: 1px; --tag-radius: 0.6em; --anp-editor-font-lp: \"\"; --file-line-width: 1200px; --anp-card-header-left-padding: 0px; --anp-depth-tab-opacity: 0.8; --anp-background-image-dark: url(\"https://r4.wallpaperflare.com/wallpaper/65/777/220/serial-experiments-lain-lain-iwakura-cyberpunk-wallpaper-6364e606735130769151d3a18d20a9a8.jpg\"); } body.theme-light.css-settings-manager { } body.theme-dark.css-settings-manager { --ctp-custom-base: 9,4,31; --ctp-custom-subtext0: 255,157,43; --ctp-custom-surface0: 118,87,138; --ctp-custom-overlay2: 245,224,220; }",
+  "styleSettingsBodyClasses": "theme-dark mod-linux is-frameless is-hidden-frameless obsidian-app show-inline-title show-view-header css-settings-manager ctp-rosepine-light ctp-frappe ctp-accent-green anp-no-highlight anp-callout-sleek anp-callout-color-toggle anp-list-toggle anp-table-toggle anp-table-width anp-table-auto anp-th-highlight anp-td-none anp-header-color-toggle anp-h1-red anp-h2-peach anp-h3-green anp-h4-teal anp-h5-lavender anp-h6-mauve anp-bold-red anp-italic-green anp-highlight-yellow anp-background-image-toggle anp-file-icons anp-floating-header anp-simple-rainbow-color-toggle anp-simple-rainbow-title-toggle anp-simple-rainbow-indentation-toggle anp-simple-rainbow-collapse-toggle anp-rainbow-subfolder-color-toggle anp-alternate-tab-toggle anp-depth-tab-text-invert anp-card-layout anp-hide-borders anp-card-layout-actions is-focused",
+  "pathRewriteRules": "",
+  "customFilters": [
+    {
+      "pattern": "",
+      "flags": "g",
+      "replace": ""
+    }
+  ],
+  "contentClassesKey": "dg-content-classes",
+  "defaultNoteSettings": {
+    "dgHomeLink": true,
+    "dgPassFrontmatter": false,
+    "dgShowBacklinks": true,
+    "dgShowLocalGraph": false,
+    "dgShowInlineTitle": true,
+    "dgShowFileTree": true,
+    "dgEnableSearch": true,
+    "dgShowToc": true,
+    "dgLinkPreview": true,
+    "dgShowTags": false
+  }
+}
